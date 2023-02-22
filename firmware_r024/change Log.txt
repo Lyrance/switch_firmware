@@ -1,0 +1,16 @@
+Change Log:
+-------------------------------------------
+R0.24
+Fixed some bugs.
+-------------------------------------------
+R0.23
+Added reset Training Data function.
+-------------------------------------------
+R0.22
+Optimized MicroSD card compatibility.
+-------------------------------------------
+R0.21
+Fixed the Training bug.
+-------------------------------------------
+R0.20
+Initial version.

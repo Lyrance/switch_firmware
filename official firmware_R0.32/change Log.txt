@@ -1,0 +1,34 @@
+Change Log:
+-------------------------------------------
+R0.32
+1. Fixed Toshiba EMMC issue.	
+2. Identify hardware version.
+
+R0.31
+Fixed some console boot to OFW after system update 14.1.1
+NOTE:
+1. Upgrade the firmware of the chip before upgrading console to 14.x
+2. If your console boot to OFW after system update 14.x, short circuit the two round holes on chipnx to restore factory setting, then update the firmware of the chip to R0.31.	
+-------------------------------------------
+R0.30beta
+1. Updated new driver for SD and DRAM.
+2. Easy menu for config the chip function. There are two ways to call out the easy menu:
+    a. Holding VOL+ when glitch on. (Can be disabled in the easy menu)
+    b. Remove MicroSD card, holding VOL+ and click PWR 5 times  within 10 seconds after glitch on.(Always enabled)
+3. Boot to OFW by holding down VOL- when glitch on. (Can be disabled in the easy menu)
+4. Auto HOS Off. (Can be disabled in the easy menu)
+-------------------------------------------
+R0.24
+Fixed some bugs.
+-------------------------------------------
+R0.23
+Added reset Training Data function.
+-------------------------------------------
+R0.22
+Optimized MicroSD card compatibility.
+-------------------------------------------
+R0.21
+Fixed the Training bug.
+-------------------------------------------
+R0.20
+Initial version.

@@ -1,0 +1,1 @@
+@FirmwareUpdater.exe firmware.bin
